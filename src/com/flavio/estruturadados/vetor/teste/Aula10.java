@@ -6,7 +6,7 @@ public class Aula10 {
 
 	public static void main(String[] args) {
 		
-		VetorObjetos vetor = new VetorObjetos(3);
+		VetorObjetos vetor = new VetorObjetos();
 		
 		Contato c1 = new Contato("Ana", "1234-5678", "ana@gmail.com");
 		Contato c2 = new Contato("Maria", "1234-9876", "maria@gmail.com");

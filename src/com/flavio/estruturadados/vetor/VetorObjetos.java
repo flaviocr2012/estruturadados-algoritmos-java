@@ -5,11 +5,11 @@ public class VetorObjetos {
 	private Object[] elementos;
 	private int tamanho;
 
-	public VetorObjetos(int capacidade) {
-		this.elementos = new Object[capacidade];
-		this.tamanho = 0;
-
-	}
+//	public VetorObjetos(int capacidade) {
+//		this.elementos = new Object[capacidade];
+//		this.tamanho = 0;
+//
+//	}
 
 	public boolean adiciona(Object elemento) {
 
